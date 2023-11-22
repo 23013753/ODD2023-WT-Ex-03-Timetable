@@ -1,5 +1,7 @@
 # Ex-04-Timetable
-Name :NIMAL.N REFERENCE NUMBER :23013743 DEPERATMENT :AIUML
+Name :nirmal
+REFERENCE NO:23013743
+DEPERATMENT:AIML
 ## AIM
 To Write a html webpage page to display your timetable.
 
@@ -15,9 +17,12 @@ Execute the program
 
 # CODE
 ```
+<<<<<<< HEAD
 <img src="C:\Users\admin\Pictures\Screenshots\Screenshot (48).png" alt=""><br>
 <style>
     table,th,td{
+
+
         border:1px solid blueviolet;
         background-color:gray;
         
@@ -65,6 +70,7 @@ Execute the program
 
 # OUPUT
 ![Alt text](image.png)
+
 
 #  RESULT
 out is excuted .
